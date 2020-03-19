@@ -9,9 +9,14 @@ body {
 .logo-box{
   padding : 6px 16px; 
 }
-
-.login-box{
-  padding: 22px;
+.a-link{ 
+    color: black;
+    background-color: transparent; 
+    text-decoration: none;
+}
+.login-box{ 
+  padding: 22px 42px;
+  font-size: 20px;
 }
 .card-item{
   box-shadow: 2px 4px 6px 0 rgba(0, 0, 0, 0.25);
@@ -32,6 +37,10 @@ body {
   padding: 19px 0 24px 0;
 }
 .start-order{
-  font-size: 20px;
-
+  font-size: 20px; 
+}
+.promotion-menu{
+  margin: 10px 32px;
+  font-size: 40px; 
+  font-weight: bold;
 }
